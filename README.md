@@ -1,7 +1,3 @@
-Here's an example of a **README.md** file for your GitHub project that includes details about the script and the cron job setup:
-
----
-
 # AWS Resource Usage Reporter
 
 ## Overview
@@ -40,8 +36,8 @@ Before running the script, ensure you have the following installed:
    Clone the repository or download the script.
 
    ```bash
-   git clone https://github.com/yourusername/aws-resource-usage-reporter.git
-   cd aws-resource-usage-reporter
+   git clone https://github.com/N1T5H/AWS-Resources.git
+   cd AWS-Resources
    ```
 
 2. **Make the Script Executable**
@@ -49,7 +45,7 @@ Before running the script, ensure you have the following installed:
    If you haven't already, ensure the script has executable permissions:
 
    ```bash
-   chmod +x resource_report.sh
+   chmod +x AWS-Resources.sh
    ```
 
 3. **Run the Script Manually**
@@ -57,7 +53,7 @@ Before running the script, ensure you have the following installed:
    To generate a resource usage report manually, run the script:
 
    ```bash
-   ./resource_report.sh
+   ./AWS-Resources.sh
    ```
 
    The output will be saved to `resourceTracker.txt` and logs will be written to `scriptExecution.log`.
@@ -99,10 +95,3 @@ Before running the script, ensure you have the following installed:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-### Notes:
-- **Replace the URLs**: Make sure to update the repository URL (`https://github.com/yourusername/aws-resource-usage-reporter.git`) with the correct one for your project.
-- **Error Handling**: The README assumes the user is familiar with basic shell scripting and AWS. If needed, you could elaborate more on error messages or logging for troubleshooting.
-  
-Let me know if you need any further customization!
