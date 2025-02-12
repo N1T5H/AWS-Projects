@@ -7,7 +7,7 @@ This guide walks you through deploying a Node.js application on an AWS EC2 insta
 1.  **Clone the repository:**
 
     ```bash
-    git clone 
+    git clone https://github.com/N1T5H/Deploy_NodeJs_in-AWS.git
     cd AWS-Session
     ```
 
