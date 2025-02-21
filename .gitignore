@@ -1,0 +1,13 @@
+Python files
+pycache/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env/
+.venv/
+env/
+venv/
+*.egg-info/
+dist/
+build/
