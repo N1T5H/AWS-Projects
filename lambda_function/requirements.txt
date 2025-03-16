@@ -1,0 +1,2 @@
+boto3
+(Note: boto3 is available in the Lambda runtime by default. You may include additional dependencies if needed.)
